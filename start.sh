@@ -4,4 +4,4 @@
 python manage.py migrate
 
 #start gunicorn
-gunicorn learning_log.wsgi:application
+gunicorn learning_log.wsgi:applicationS
